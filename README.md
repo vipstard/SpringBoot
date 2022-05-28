@@ -1,2 +1,2 @@
-# SpringBoot
-SpringBoot 공부 저장소
+# SpringBoot 토이프로젝트
+
